@@ -1,0 +1,31 @@
+/* src/components/AppointmentCard.css */
+.appointment-card {
+  padding: 12px;
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+  color: #333;
+ 
+}
+
+.appointment-card.dark {
+  background-color: #3754b0;
+  color: white;
+}
+
+.appointment-card.light {
+  background-color: #e8f0ff;
+}
+
+.icon {
+  font-size: 24px;
+}
+
+.type {
+  font-weight: bold;
+}
+
+.details {
+  font-size: 12px;
+}
