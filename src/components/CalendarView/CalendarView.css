@@ -111,7 +111,7 @@
 .calendar {
   background: #f3f6ff;
   border-radius: 12px;
-  padding: 10px;
+  padding: 16px;
   /* margin-bottom: 20px; */
 
 
@@ -184,8 +184,6 @@
 .appointments-section{
   display: flex;
   justify-content: space-between;
-}
-.card-gl{
-  width: 7%;
+  
 
 }
